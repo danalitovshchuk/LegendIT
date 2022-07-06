@@ -1,0 +1,1 @@
+The number of players in the team is: 15
