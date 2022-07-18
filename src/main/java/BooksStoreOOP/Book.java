@@ -9,6 +9,7 @@ public abstract class Book {
 
     String euro = "EUR";
     String ruble = "RUB";
+    String usd = "USD";
 
     public String getBookName() {
         return bookName;
